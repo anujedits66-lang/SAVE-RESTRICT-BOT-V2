@@ -1,6 +1,6 @@
-# Rexbots
+# Arafta
 # Don't Remove Credit
-# Telegram Channel @RexBots_Official
+# Telegram Channel @arafta_hindi_dubbed_webseries
 
 
 
@@ -81,9 +81,9 @@ async def broadcast_command(bot: Client, message: Message):
                 elif sh == "Error":
                     failed += 1
             done += 1
-# Rexbots
+# Arafta
 # Don't Remove Credit
-# Telegram Channel @RexBots_Official
+# Telegram Channel @arafta_hindi_dubbed_webseries
 
             if done % 20 == 0:
                 await sts.edit(
@@ -166,9 +166,9 @@ async def users_count(bot: Client, message: Message):
 
 
 # Credits
-# Developer Telegram: @RexBots_Official
-# Update channel: @RexBots_Official
+# Developer Telegram: @arafta_hindi_dubbed_webseries
+# Update channel: @Anujedits76
 
-# Rexbots
+# Arafta
 # Don't Remove Credit
-# Telegram Channel @RexBots_Official
+# Telegram Channel @arafta_hindi_dubbed_webseries
