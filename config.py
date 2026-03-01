@@ -1,8 +1,8 @@
 """
 Save Restricted Content Bot Configuration
 
-Developed by: LastPerson07XRexBots
-Telegram: @RexBots_Official X @THEUPDATEDGUYS
+Developed by: arafta_hindi_dubbed_webseries
+Telegram: @arafta_hindi_dubbed_webseries X @Anujedits76
 
 Please retain this credit if you use or modify this project.
 """
