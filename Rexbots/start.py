@@ -1,5 +1,5 @@
-# Developed by: LastPerson07 × RexBots
-# Telegram: @RexBots_Official | @THEUPDATEDGUYS
+# Developed by: arafta_hindi_dubbed_webseries × Anujedits76
+# Telegram: @arafta_hindi_dubbed_webseries | @Anujedits76
 import os
 import asyncio
 import random
@@ -19,11 +19,11 @@ from database.db import db
 import math
 from logger import LOGGER
 logger = LOGGER(__name__)
-SUBSCRIPTION = os.environ.get('SUBSCRIPTION', 'https://graph.org/file/242b7f1b52743938d81f1.jpg')
+SUBSCRIPTION = os.environ.get('SUBSCRIPTION', 'https://i.ibb.co/VWZ0RPxX/x.jpg')
 FREE_LIMIT_SIZE = 2 * 1024 * 1024 * 1024
 FREE_LIMIT_DAILY = 10
-UPI_ID = os.environ.get("UPI_ID", "your_upi@oksbi")
-QR_CODE = os.environ.get("QR_CODE", "https://graph.org/file/242b7f1b52743938d81f1.jpg")
+UPI_ID = os.environ.get("UPI_ID", "")
+QR_CODE = os.environ.get("QR_CODE", "https://i.ibb.co/VWZ0RPxX/x.jpg")
 REACTIONS = [
     "👍", "❤️", "🔥", "🥰", "👏", "😁", "🤔", "🤯", "😱", "🤬",
     "😢", "🎉", "🤩", "🤮", "💩", "🙏", "👌", "🕊", "🤡", "🥱",
