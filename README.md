@@ -194,12 +194,12 @@ docker run -d --env-file .env save-restricted-bot
 # 🤝 Contributors
 
 <p align="center">
-  <a href="https://t.me/about_zani">
+  <a href="https://t.me/arafta_hindi_dubbed_webseries">
     <img src="https://img.shields.io/badge/Abhi-Telegram-blue?style=for-the-badge&logo=telegram">
   </a>
   &nbsp;
-  <a href="https://github.com/LastPerson07/">
-    <img src="https://img.shields.io/badge/LastPerson07-GitHub-black?style=for-the-badge&logo=github">
+  <a href="https://github.com/Anujedits66-lang/">
+    <img src="https://img.shields.io/badge/Anujedits66-lang-GitHub-black?style=for-the-badge&logo=github">
   </a>
 </p>
 
@@ -208,11 +208,11 @@ docker run -d --env-file .env save-restricted-bot
 # 📞 Support
 
 <p align="center">
-  <a href="https://t.me/RexBots_Official">
-    <img src="https://img.shields.io/badge/RexBots-Official%20Channel-blue?style=for-the-badge&logo=telegram">
+  <a href="https://t.me/arafta_hindi_dubbed_webseries">
+    <img src="https://img.shields.io/badge/arafta_hindi_dubbed_webseries%20Channel-blue?style=for-the-badge&logo=telegram">
   </a>
   <br><br>
-  <a href="https://t.me/THEUPDATEDGUYS">
+  <a href="https://t.me/Anujedits76">
     <img src="https://img.shields.io/badge/Updates-Channel-blue?style=for-the-badge&logo=telegram">
   </a>
 </p>
