@@ -199,7 +199,7 @@ docker run -d --env-file .env save-restricted-bot
   </a>
   &nbsp;
   <a href="https://github.com/Anujedits66-lang/">
-    <img src="https://img.shields.io/badge/Lust-GitHub-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/LastPerson07-GitHub-black?style=for-the-badge&logo=github">
   </a>
 </p>
 
