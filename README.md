@@ -195,7 +195,7 @@ docker run -d --env-file .env save-restricted-bot
 
 <p align="center">
   <a href="https://t.me/arafta_hindi_dubbed_webseries">
-    <img src="https://img.shields.io/badge/Anuj-Telegram-blue?style=for-the-badge&logo=telegram">
+    <img src="https://img.shields.io/badge/LastPerson07-Telegram-blue?style=for-the-badge&logo=telegram">
   </a>
   &nbsp;
   <a href="https://github.com/Anujedits66-lang/">
